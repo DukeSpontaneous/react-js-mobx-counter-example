@@ -9,6 +9,6 @@
 - [Почему мы выбрали MobX, а не Redux, и как его использовать эффективнее (habr.com)](https://habr.com/ru/company/vk/blog/522312/)
 - [Сравнение Redux.js и MobX (miro.com)](https://miro.com/app/board/uXjVOBGvaY4=/)
 
-### Оригинальный пример (нерабочий)
+### Первый рабочий вариант
 
-[Основа решения](https://habr.com/ru/post/324388/)
+Это частичная переделка примера на Redux, но без Provider'а.
