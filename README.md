@@ -1,6 +1,6 @@
 # React-js-MobX Counter
 
-## (makeAutoObservable-class-arrow)
+## (makeObservable-class-arrow)
 
 [Редактировать на StackBlitz ⚡️](https://stackblitz.com/edit/react-tgr1zb)
 
