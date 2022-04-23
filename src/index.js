@@ -5,9 +5,6 @@ import counterStore from './stores/counterStore';
 import Counter from './components/Counter';
 
 import { Provider } from 'mobx-react';
-import { configure } from 'mobx';
-
-configure({ enforceActions: 'observed' });
 
 const stores = {
   counterStore,
