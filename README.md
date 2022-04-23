@@ -6,7 +6,7 @@
 
 ## Почему не Redux
 
-- [Почему мы выбрали MobX, а не Redux, и как его использовать эффективнее (habr.com/)](https://habr.com/ru/company/vk/blog/522312/)
+- [Почему мы выбрали MobX, а не Redux, и как его использовать эффективнее (habr.com)](https://habr.com/ru/company/vk/blog/522312/)
 - [Сравнение Redux.js и MobX (miro.com)](https://miro.com/app/board/uXjVOBGvaY4=/)
 
 ## Второй рабочий вариант
