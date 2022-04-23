@@ -1,7 +1,7 @@
-import { observable, action, makeObservable } from 'mobx';
+import { makeAutoObservable } from 'mobx';
 
 function createCounterStore() {
-  return makeObservable(
+  return makeAutoObservable(
     {
       count: 0,
       decrease() {
@@ -11,11 +11,8 @@ function createCounterStore() {
         this.count++;
       },
     },
-    {
-      count: observable,
-      increase: action.bound,
-      decrease: action.bound,
-    }
+    {},
+    { autoBind: true }
   );
 }
 
